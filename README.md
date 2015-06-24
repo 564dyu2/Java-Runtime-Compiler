@@ -1,6 +1,8 @@
 Java-Runtime-Compiler
 =====================
 
+Not that version compiler-2.2.0 is the last official release with the apache license.
+
 This takes a String, compiles it and loads it returning you a class from what you built.  
 By default it uses the current ClassLoader.  It supports nested classes, but otherwise builds one class at a time.
 
